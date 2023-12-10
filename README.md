@@ -4,11 +4,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Python        5 hrs 7 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.09 %
-Markdown      5 hrs 3 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.70 %
-MATLAB        3 hrs 46 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Objective-C   1 hr 45 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
-YAML          1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 %
+Python        7 hrs 24 mins   █████████▒░░░░░░░░░░░░░░░   36.80 %
+MATLAB        4 hrs 28 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.20 %
+Markdown      3 hrs 18 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.40 %
+Objective-C   1 hr 49 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.06 %
+YAML          1 hr 20 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
