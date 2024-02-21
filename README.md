@@ -4,8 +4,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    1 min           ████████████▓░░░░░░░░░░░░   50.50 %
-HTML   1 min           ████████████▒░░░░░░░░░░░░   49.50 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
