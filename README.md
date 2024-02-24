@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! I'm xiln7.</h2>
+<h2 align="center">👋 Hello! I'm Kowyo.</h2>
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
