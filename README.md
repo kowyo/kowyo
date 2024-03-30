@@ -13,11 +13,5 @@ JSON          12 mins         ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<div style="display: flex; justify-content: space-between;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="flex: 1; margin-right: 10px;">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=kowyo" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat" style="flex: 1; margin-left: 10px;">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kowyo&exclude_repo=Roll-a-Ball,mobile-robot,eggy-party,Engineering-Competition-Robot&layout=compact&langs_count=8&card_width=200" />
-  </a>
-</div>
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kowyo&show_icons=true&include_all_commits=true&hide_border=true" alt="Kowyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowyo&exclude_repo=Engineering-Competition-Robot,mobile-robot&hide=assembly,shaderlab,hlsl,cmake,mathematica&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
