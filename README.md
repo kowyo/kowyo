@@ -13,5 +13,5 @@ JSON          12 mins         ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kowyo&show_icons=true&include_all_commits=true&hide_border=true" alt="Kowyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowyo&exclude_repo=Engineering-Competition-Robot,mobile-robot&hide=assembly,shaderlab,hlsl,cmake,mathematica&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kowyo&show_icons=true&include_all_commits=true&hide_border=true" alt="Kowyo's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kowyo&exclude_repo=Engineering-Competition-Robot,mobile-robot&hide=assembly,shaderlab,hlsl,cmake,mathematica&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
