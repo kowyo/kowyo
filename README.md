@@ -5,9 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB        25 mins         ████████████████████▒░░░░   81.24 %
-Objective-C   5 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
-Other         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+MATLAB   23 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
