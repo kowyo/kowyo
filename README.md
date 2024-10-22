@@ -5,7 +5,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-MATLAB   1 hr 35 mins    █████████████████████████   100.00 %
+Bash     22 mins         ████████████████████████▓   98.75 %
+MATLAB   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.25 %
 ```
 
 <!--END_SECTION:waka-->
