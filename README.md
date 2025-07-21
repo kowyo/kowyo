@@ -5,11 +5,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Other        59 mins         ████████████▓░░░░░░░░░░░░   50.40 %
-Python       34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.60 %
-YAML         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-JSON         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
-TOML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
